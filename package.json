@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-encoder",
+  "description": "Encode variables or constants that appear in the URI",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Dan Davis",
+    "email": "dan@danizen.net"
+  },
+  "bugs": {
+    "url": "https://github.com/danizen/insomnia-plugin-encoder"
+  },
+  "insomnia": {
+    "name": "encoder",
+    "description": "Encode variables or constants that appear in the URI"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danizen/insomnia-plugin-encoder"
+  },
+  "license": "MIT"
+}
